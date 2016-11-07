@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "d65eb04f68a2f24e2943b1e834b164fe"
+build_time: [531647284, 379023000]
+inputs:
+  "/Users/sijo/Desktop/Training/TrainingProject01/TrainingProject01/ViewController.swift": [531465554, 0]
+  "/Users/sijo/Desktop/Training/TrainingProject01/TrainingProject01/TPLoginViewController.swift": [531390919, 0]
+  "/Users/sijo/Desktop/Training/TrainingProject01/TrainingProject01/PeopleDetails.swift": [531402328, 0]
+  "/Users/sijo/Desktop/Training/TrainingProject01/TrainingProject01/TPDatafetchViewController.swift": [531400390, 0]
+  "/Users/sijo/Desktop/Training/TrainingProject01/TrainingProject01/TPWelcomeViewController.swift": [531549314, 0]
+  "/Users/sijo/Desktop/Training/TrainingProject01/TrainingProject01/AppDelegate.swift": [531460777, 0]
